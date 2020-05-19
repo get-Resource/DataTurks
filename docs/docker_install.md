@@ -49,7 +49,7 @@ docker run -d -p 9090:9090 -p 3000:3000 -p 3001:3001 -p 80:80 dataturks:1.0.0
 ```
 docker run -d --name dataturks_buile dataturks:base /bin/bash -c 'while true; do sleep 1; done'
 ```
-### 参考[Building_on_Linux.md](docs/Building_on_Linux.md)或参考[Dockerfile](bazaar/docker/Dockerfile)逐步进行构建。
+### 参考[Building_on_Linux.md](Building_on_Linux.md)或参考[Dockerfile](../bazaar/docker/Dockerfile)逐步进行构建。
 ```
 docker cp ./ dataturks_buile:/home/dataturks/ # 复制所需文件到运行的容器，仅供参考。
 docker exec -it dataturks_buile /bin/bash # 进入容器
