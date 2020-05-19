@@ -13,9 +13,11 @@ An open-source tool for powering data annotations.
 
 
 ## Installation
-源码新版本安装: [Building_on_Linux.md](docs/Building_on_Linux.md)
-源码旧版本安装: [Building_on_Linux.md](docs/Linux.md)
-docker安装: [Building_on_Linux.md](docs/docker_install.md)
-docker说明[docker_commands_help](docs/docker_commands_help.md)
+- 源码新版本安装: [Building_on_Linux.md](docs/Building_on_Linux.md)
+- 源码旧版本安装: [Building_on_Linux.md](docs/Linux.md)
+- docker安装: [Building_on_Linux.md](docs/docker_install.md)
+- docker说明[docker_commands_help](docs/docker_commands_help.md)
+
+- 常见问题[docker_commands_help](docs/Bugs.md)
 
     
